@@ -12,4 +12,5 @@ pytest==6.2.3
 #Converage
 coverage==5.5
 pytest-cov==2.11.1
+
 -r requirements.txt
