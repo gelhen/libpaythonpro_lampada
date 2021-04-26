@@ -11,4 +11,11 @@ Tópicos a serem abordados:
 1. Git
 2. Virtualenv
 3. Pip
-
+. 
+.   
+.
+6. Pipenv 
+   ` Para o pipenv o virtual env dentro da pasta do proheto 
+      em .bash_profile incluir a linha abaixo
+      export PIPENV_VENV_IN_PROJECT=1
+ `
